@@ -1,0 +1,4 @@
+source destination
+D:\Assignments\assign69\Input1.txt D:\Assignments\assign69\Output1.txt
+D:\Assignments\assign69\Input2.txt D:\Assignments\assign69\Output2.txt
+D:\Assignments\assign69\Input3.txt D:\Assignments\assign69\Output3.txt
